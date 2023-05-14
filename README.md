@@ -45,7 +45,7 @@
 </br>
 
 🧶 How to reach me: </br>
-email: yoo8960@gmail.com
+email: yoo8960@gmail.com</br>
 blog: medium.com/painting-mini
 </br>
 
