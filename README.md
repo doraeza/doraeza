@@ -46,6 +46,7 @@
 
 🧶 How to reach me: </br>
 email: yoo8960@gmail.com
+blog: medium.com/painting-mini
 </br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer)
