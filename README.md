@@ -47,5 +47,6 @@
 email: yoo8960@gmail.com</br>
 blog: medium.com/painting-mini
 </br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=doraeza&theme=vue-default&locale=ko)](https://git.io/streak-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer)
