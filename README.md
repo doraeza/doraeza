@@ -47,6 +47,4 @@
 email: yoo8960@gmail.com</br>
 blog: medium.com/painting-mini
 </br>
-![](./profile-3d-contrib/profile-green-animate.svg)
-</br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=doraeza&theme=vue-default&locale=ko)](https://git.io/streak-stats)
