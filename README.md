@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/Express-0A66C2?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJs-0A66C2?style=flat-square&logo=Nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-0A66C2?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySql-0A66C2?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-0A66C2?style=flat-square&logo=redis&logoColor=white"/>
 </br>
 
